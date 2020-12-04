@@ -12,5 +12,5 @@ This website was created for a fictional company called Horiseon. It was assigne
 
 https://romanrangel.github.io/horiseon/
 
-## SSH Key
-git@github.com:romanrangel/horiseon.git
+## Repository
+https://github.com/romanrangel/horiseon
